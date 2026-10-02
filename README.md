@@ -89,10 +89,10 @@ For your buyers' safety, the payment page only opens when the buyer arrives from
 
 ```
 parnianpay.php     Main module class
-controllers/       Front controllers (redirect, return, webhook)
+controllers/       Front controllers (redirect, callback, webhook)
 lib/               Gateway API client
 views/             Templates and assets
-translations/      en, fa, ar
+translations/      fa, ar (English is built in)
 logo.png           Module icon
 ```
 
